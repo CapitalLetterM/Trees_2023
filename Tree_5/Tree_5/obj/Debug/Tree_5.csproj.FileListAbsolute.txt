@@ -1,0 +1,10 @@
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\bin\Debug\Tree_5.exe.config
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\bin\Debug\Tree_5.exe
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\bin\Debug\Tree_5.pdb
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\obj\Debug\Tree_5.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\obj\Debug\Tree_5.Form1.resources
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\obj\Debug\Tree_5.Properties.Resources.resources
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\obj\Debug\Tree_5.csproj.GenerateResource.cache
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\obj\Debug\Tree_5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\obj\Debug\Tree_5.exe
+C:\Users\Lenovo-PC\source\repos\Trees_2023\Tree_5\Tree_5\obj\Debug\Tree_5.pdb
